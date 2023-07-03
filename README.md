@@ -18,3 +18,5 @@ There are various clustering algorithms available, each with its own characteris
 7. Agglomerative Clustering: This hierarchical clustering algorithm starts with each data point as a separate cluster and iteratively merges the most similar clusters based on a linkage criterion (e.g., complete, average, or single linkage).
 
 These are just a few examples of clustering algorithms. Each algorithm has its own strengths and weaknesses, and the choice of algorithm depends on the specific characteristics of your data and the desired clustering outcome. It's important to consider factors such as scalability, computational complexity, assumptions about the data, and interpretability when selecting a clustering algorithm.
+
+Dataset link: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
